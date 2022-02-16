@@ -1,0 +1,3 @@
+Max Amperage 
+	= 1 A through board
+	= 20 mA total through pins

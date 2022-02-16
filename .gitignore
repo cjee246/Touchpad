@@ -1,0 +1,2 @@
+# exclude library zip file, too large
+/*/Libraries/UnoJoy-master.zip
